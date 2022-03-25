@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenXMLExcel", "OpenXMLExcel\OpenXMLExcel.csproj", "{243C1FA7-8DC2-403B-9D48-5CECAC1500AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243C1FA7-8DC2-403B-9D48-5CECAC1500AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243C1FA7-8DC2-403B-9D48-5CECAC1500AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243C1FA7-8DC2-403B-9D48-5CECAC1500AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243C1FA7-8DC2-403B-9D48-5CECAC1500AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC350925-DF03-4E2A-9EBD-ADEDC19F3EC5}
+	EndGlobalSection
+EndGlobal
