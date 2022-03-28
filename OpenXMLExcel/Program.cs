@@ -43,7 +43,7 @@ namespace OpenXMLExcel
                                     category.type = str;
                                     category.format = str;
                                     category.laung = str;
-
+                                     
                                     return category;
                                 }
                                 //else
