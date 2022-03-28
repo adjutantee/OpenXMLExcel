@@ -34,7 +34,7 @@ public class Program
                         }
                         else
                         {
-                            Console.WriteLine("Shared string {0}: {1}", );
+                            // Console.WriteLine("Shared string {0}: {1}", );
                         }
                     }
                 }
